@@ -1,0 +1,40 @@
+# Build and IDE files
+target/
+*.class
+.idea/
+.settings/
+.project
+.classpath
+.smarttomcat/
+.vscode/
+
+# Logs
+*.log
+err.txt
+mongo_errors.txt
+remaining_errors.log
+final_run_output.txt
+tomcat_startup_utf8.log
+tomcat_startup.log
+debug.log
+build_status.log
+mvn_error.log
+mvn_compile.log
+build2.log
+build.log
+
+# Version control
+.svn/
+.git/
+
+# Node/Frontend (if any accidentally left)
+node_modules/
+.next/
+out/
+frontend/
+catalogue1.jsp
+catalogue1.js
+
+# OS files
+Thumbs.db
+.DS_Store
