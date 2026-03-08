@@ -1,0 +1,5 @@
+package com.bmp.constant;
+
+public enum OrderSource {
+	C2C,IOS_APP,ANDROID_APP,CLIENT_API,BULK_UPLOAD,ERP_FORM,APP,SHOPIFY,WMS,WOOCOMMERCE,AMAZON
+}
