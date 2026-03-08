@@ -1,0 +1,5 @@
+package com.bmp.constant;
+
+public enum Tax {
+	SERVICE_TAX,SECONDARY_CESS,SWACCH_BHARAT_TAX,KISAM_TAX,EDUCATION_CESS
+}
